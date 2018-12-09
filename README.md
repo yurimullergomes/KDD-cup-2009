@@ -4,12 +4,12 @@ Classificador de comportamentos de clientes a partir de dados do tipo customer r
 
 
 Por fim, obtivemos os seguintes resultados:
-* ## ``AUC para 'upselling' : 0.80 ``$\pm $``0.05 ``
+* ## ``AUC para 'upselling' : 0.80 +/- 0.05 ``
 
-* ## ``AUC para 'appetency' : 0.69``$\pm$ ``0.09``
+* ## ``AUC para 'appetency' : 0.69 +/- 0.09``
 
-* ## ``AUC para 'churn' : 0.84``$\pm$ ``0.07``
+* ## ``AUC para 'churn' : 0.84 +/- 0.07``
 
 Portanto temos:
 
-## ``AUC_médio = 0.77``$\pm$ ``0.04``
+## ``AUC_médio = 0.77 +/- 0.04``
